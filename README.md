@@ -5,11 +5,13 @@
   *A Script-Fu for Gimp*
   <br>
   <br>
-  To put it simply, this little script can convert your scanned drawings into vector-like layers in Gimp. Much like the "Trace Bitmap" feature in Inkscape
+  To put it simply, this little script can convert your scanned drawings into vector-like layers in Gimp. Much like the "Trace Bitmap" feature in Inkscape.
 </p>
 <hr>
 <p align="center"><img src="https://i.imgur.com/naYjB4B.png" width=80%></p>
+
 ## How to Use
+
 Directions on how to install Script-Fu scripts can be found here: http://docs.gimp.org/en/install-script-fu.html
 
 The script can be found under `Filters` >> `Enhance` >> `Digitalize Scan...`
