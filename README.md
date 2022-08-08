@@ -2,10 +2,10 @@
   <img style="float:left;" src="https://i.imgur.com/xr2fsN4.png" height=150px>
 
   **Digitalize Scan**<br>
-  *A Script-Fu for Gimp*
+  *A Script-Fu for GNU Image Manipulation Program (GIMP)*
   <br>
   <br>
-  To put it simply, this little script can convert your scanned drawings into vector-like layers in Gimp. Much like the "Trace Bitmap" feature in Inkscape.
+  This script cleans up scanned pen & paper drawings by converting them into vector-like layers, much like Inkscape's "Trace Bitmap" feature.
 </p>
 <hr>
 <p align="center"><img src="https://i.imgur.com/naYjB4B.png" width=80%></p>
